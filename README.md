@@ -58,7 +58,7 @@ This application respects Spotify API rate limits and uses pagination to fetch c
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/spotify-track-popularity/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/VahidJbrl/SpotiRank/issues) if you want to contribute.
 
 ## License
 
