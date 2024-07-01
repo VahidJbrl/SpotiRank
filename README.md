@@ -39,7 +39,7 @@ Before running this application, you need to have:
 
 2. When prompted, enter your Spotify API Client ID and Client Secret.
 
-3. Enter the Spotify Artist ID for the artist you want to analyze. You can find an artist's ID by looking at their Spotify URL. For example, in the URL `https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6`, the artist ID is `1vCWHaC5f2uS3yhpwWbIA6`.
+3. Enter the Spotify Artist ID for the artist you want to analyze. You can find an artist's ID by looking at their Spotify URL. For example, in the URL `https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X?autoplay=true`, the artist ID is `6jJ0s89eD6GaHleKKya26X`.
 
 4. The application will fetch the data and display a table of the artist's tracks sorted by popularity.
 
